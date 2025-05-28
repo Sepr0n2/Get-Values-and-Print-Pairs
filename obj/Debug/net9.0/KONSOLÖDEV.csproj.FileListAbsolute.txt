@@ -1,0 +1,14 @@
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\bin\Debug\net9.0\KONSOLÖDEV.exe
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\bin\Debug\net9.0\KONSOLÖDEV.deps.json
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\bin\Debug\net9.0\KONSOLÖDEV.runtimeconfig.json
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\bin\Debug\net9.0\KONSOLÖDEV.dll
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\bin\Debug\net9.0\KONSOLÖDEV.pdb
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\KONSOLÖDEV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\KONSOLÖDEV.AssemblyInfoInputs.cache
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\KONSOLÖDEV.AssemblyInfo.cs
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\KONSOLÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\KONSOLÖDEV.dll
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\refint\KONSOLÖDEV.dll
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\KONSOLÖDEV.pdb
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\KONSOLÖDEV.genruntimeconfig.cache
+C:\Users\Said\Desktop\95230085-web-final proje\KONSOLÖDEV\obj\Debug\net9.0\ref\KONSOLÖDEV.dll
